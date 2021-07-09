@@ -34,4 +34,6 @@
   <string name="config_batteryRemainingCapacityNode">/sys/class/power_supply/bms/charge_full</string>
   <string name="config_batteryDesignCapacityNode">/sys/class/power_supply/bms/charge_full_design</string>
 
+    <!-- Whether to show a preference item for mobile plan -->
+    <bool name="config_show_mobile_plan">false</bool>
 </resources>
